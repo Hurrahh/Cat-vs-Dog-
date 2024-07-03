@@ -1,2 +1,2 @@
-# Cat-vs-Dog-
+# Cat-vs-Dog
 Deep Learning project
